@@ -1,5 +1,6 @@
 # Technologies used:
 - React
+- Firebase
 
 # Getting Started with Create React App
 
