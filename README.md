@@ -1,6 +1,7 @@
 # Technologies used:
 - React
 - Firebase
+- ChatEngine
 
 # Getting Started with Create React App
 
